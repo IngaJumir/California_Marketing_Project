@@ -1,5 +1,5 @@
 # California_Marketing_Project 
-#### To showcase my skills, I have developed this project utilizing the following
+#### I have developed this project utilizing the following
 ## Languages and Tools:
 
 <br>
